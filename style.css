@@ -1,0 +1,71 @@
+body{
+  background-color: #dfdfdf;
+  font-style: 'Raleway', sans-serif;
+  color: rgb(34, 34, 34);
+  margin: 0;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.perfil{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto-principal{
+    width: 190px;
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0px 0px 100px white;
+
+}
+
+
+h1, h4{
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-size: 40px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(73 73 73);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+p{
+    line-height: 25px;
+    margin-top: 0;
+    text-align: justify;
+}
+
+.social-links{
+    text-decoration: none;
+}
+
+.social-icons{
+    width: 20px;
+}
+
+.paragrafo{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px 0;
+}
+
+.lista{
+    padding-bottom: 30px;
+}
